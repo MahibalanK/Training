@@ -1,0 +1,48 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "As a user I must be able to navigate all sub links under \u0027\u0027bank with us\u0027\u0027 and verify pages are working as expected",
+        "description": "",
+        "id": "sample-feature-for-module-accounts;as-a-user-i-must-be-able-to-navigate-all-sub-links-under-\u0027\u0027bank-with-us\u0027\u0027-and-verify-pages-are-working-as-expected",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User navigate to \u0027dotcoza web\u0027 and click \u0027accept\u0027 cookies button",
+            "match": {
+              "location": "AccountsSteps.user_navigate_to_dotcoza_web_and_click_accept_cookies_button()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "User  to \u0027dotcoza web\u0027 and click \u0027accept\u0027 cookies button",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@BankWithUsNav"
+          }
+        ]
+      }
+    ],
+    "name": "sample feature for module accounts",
+    "description": "",
+    "id": "sample-feature-for-module-accounts",
+    "keyword": "Feature",
+    "uri": "Accounts.feature"
+  }
+]
